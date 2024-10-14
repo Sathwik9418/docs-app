@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 
-#Run the following commands before running the application
+# Run the following commands before running the application
 
 
 
